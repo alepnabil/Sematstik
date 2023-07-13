@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "buzzer_trigger",
+					"strict" : false
+				},
+				{
+					"name" : "pd_detected",
+					"strict" : false
+				},
+				{
+					"name" : "ir_detected",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "pd_sensor_data",
+					"strict" : false
+				},
+				{
+					"name" : "ir_sensor_data",
+					"strict" : false
+				},
+				{
+					"name" : "sound_data",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
